@@ -1,0 +1,24 @@
+{
+  "name": "latihannode12021",
+  "version": "1.0.0",
+  "description": "latihan node js 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvanbelajarit/latihanNode12021.git"
+  },
+  "author": "Web programming Kelas B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvanbelajarit/latihanNode12021/issues"
+  },
+  "homepage": "https://github.com/irvanbelajarit/latihanNode12021#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
